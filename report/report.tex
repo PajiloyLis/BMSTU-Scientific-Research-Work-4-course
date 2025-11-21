@@ -1,0 +1,21 @@
+\documentclass[a4paper, 12pt]{extreport}
+
+\input{./chapters/preambula.tex}
+
+\begin{document}
+	% \includepdf{./chapters/only_title.pdf}
+	\includepdf[pages={2}]{./chapters/title.pdf}
+	% \include{./chapters/title}
+	\setcounter{page}{2}
+	\def\contentsname{\begin{center}\Large СОДЕРЖАНИЕ\end{center}}	\tableofcontents
+	\include{chapters/abstract}
+	% \include{./chapters/content}
+	% \include{./chapters/intro.tex}
+	\include{./chapters/analytic.tex}
+	% \include{./chapters/design.tex}
+	% \include{./chapters/tech.tex}
+	% \include{./chapters/research.tex}
+	% \include{./chapters/conclusion.tex}
+	\include{./chapters/bibliography.tex}
+	% \include{./chapters/addition}
+\end{document}
