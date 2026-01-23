@@ -2,7 +2,7 @@
 \usepackage[T1, T2A]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[german,english,russian]{babel}
-\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float}
+\usepackage{amssymb,amsfonts,amsmath,mathtext,enumerate,float}
 \usepackage{pgfplots}
 \usepackage{graphicx}
 \usepackage{tocloft}
@@ -38,6 +38,7 @@
 \setlist{nosep}
 \usepackage{chngcntr} % Для привязки к разделам
 \usepackage{listing}
+\usepackage[nocompress]{cite}
 
 % Нумерация листингов в пределах раздела
 \counterwithin{listing}{chapter}
@@ -164,6 +165,5 @@
 
 \newcommand{\specialcell}[2][c]{%
 	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
-
 
 \frenchspacing
