@@ -6,9 +6,10 @@
 	% \includepdf{./chapters/only_title.pdf}
 	\includepdf[pages={1,2}]{./chapters/title.pdf}
 	% \include{./chapters/title}
-	\setcounter{page}{2}
-	\def\contentsname{\begin{center}\Large СОДЕРЖАНИЕ\end{center}}	\tableofcontents
+		\setcounter{page}{3}
 	\include{chapters/abstract}
+
+	\def\contentsname{\begin{center}\Large СОДЕРЖАНИЕ\end{center}}	\tableofcontents
 	% \include{./chapters/content}
 	% \include{./chapters/intro.tex}
 	\include{./chapters/analytic.tex}
@@ -17,5 +18,5 @@
 	% \include{./chapters/research.tex}
 	% \include{./chapters/conclusion.tex}
 	\include{./chapters/bibliography.tex}
-	% \include{./chapters/addition}
+	\include{./chapters/addition}
 \end{document}
