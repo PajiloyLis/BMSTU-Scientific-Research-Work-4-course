@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+A level-1 auxiliary file: chapters/abstract.aux
+A level-1 auxiliary file: ./chapters/analytic.aux
+A level-1 auxiliary file: ./chapters/bibliography.aux
+The style file: bibtex-styles/utf8gost705u.bst
+A level-1 auxiliary file: ./chapters/addition.aux
+Database file #1: chapters/lib.bib
+Warning--entry type for "yandexTomitaDoc" isn't style-file defined
+--line 987 of file chapters/lib.bib
+Warning--entry type for "yandexMystemDoc" isn't style-file defined
+--line 1017 of file chapters/lib.bib
+Warning--entry type for "Petrov2016SyntaxNet" isn't style-file defined
+--line 1026 of file chapters/lib.bib
+I was expecting a `,' or a `}'---line 1049 of file chapters/lib.bib
+ :  
+ :  url = {https://wals.info/}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "PorterStemmer2001" isn't style-file defined
+--line 1151 of file chapters/lib.bib
+Warning--entry type for "SnowballRussian2003" isn't style-file defined
+--line 1159 of file chapters/lib.bib
+Warning--entry type for "StemkaWebsite" isn't style-file defined
+--line 1178 of file chapters/lib.bib
+Warning--entry type for "IITP_Corpus_Project" isn't style-file defined
+--line 1205 of file chapters/lib.bib
+Warning--entry type for "Pymorphy2Internals" isn't style-file defined
+--line 1212 of file chapters/lib.bib
+Warning--entry type for "Zakirova2023Syntax" isn't style-file defined
+--line 1257 of file chapters/lib.bib
+I was expecting a `,' or a `}'---line 1464 of file chapters/lib.bib
+ :  
+ :  address   = {Москва}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in Leech1997
+Warning--can't use both volume and number fields in bogdanov2014anaphora
+Warning--empty note in mitkovStateOfArt
+Warning--can't use both volume and number fields in protopopova2014experience
+Warning--empty journal in segalovich2003fast
+Warning--empty booktitle in hulden2009foma
+Warning--empty booktitle in CoNLL2017SharedTask
+You've used 105 entries,
+            2958 wiz_defined-function locations,
+            1308 strings with 31553 characters,
+and the built_in function-call counts, 34995 in all, are:
+= -- 5208
+> -- 873
+< -- 104
++ -- 304
+- -- 199
+* -- 1444
+:= -- 3760
+add.period$ -- 428
+call.type$ -- 105
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 112
+duplicate$ -- 1523
+empty$ -- 3356
+format.name$ -- 199
+if$ -- 9659
+int.to.chr$ -- 0
+int.to.str$ -- 105
+missing$ -- 0
+newline$ -- 651
+num.names$ -- 280
+pop$ -- 919
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1064
+stack$ -- 0
+substring$ -- 1409
+swap$ -- 1095
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 7
+while$ -- 263
+width$ -- 108
+write$ -- 1799
+(There were 2 error messages)

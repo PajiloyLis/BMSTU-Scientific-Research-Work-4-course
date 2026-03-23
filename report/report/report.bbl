@@ -1,0 +1,901 @@
+\begin{thebibliography}{100}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{butenko2025modeli}
+\selectlanguageifdefined{russian}
+Бутенко~Ю.~И. Модели и методы
+  автоматической обработки
+  научно-технических текстов в
+  параллельном корпусе. Докторская
+  диссертация: {Федеральное
+  государственное автономное
+  образовательное учреждение высшего
+  образования <<Московский государственный
+  технический университет имени Н.Э.
+  Баумана (национальный исследовательский
+  университет)>> (МГТУ им. Н. Э. Баумана)}.
+\newblock Москва, 2025.
+
+\bibitem{mukhamedshin_suleymanov_2018}
+\selectlanguageifdefined{russian}
+Мухамедшин~Д.~Р., Сулейманов~Д.~Ш. Система
+  корпус-менеджер: архитектура и модели
+  корпусных данных~// Программные продукты и
+  системы.
+\newblock 2018.
+\newblock Т.~31, {№}~4.
+\newblock {С.}~653--658.
+
+\bibitem{dobrovolskij_zatsman_2025}
+\selectlanguageifdefined{russian}
+Добровольский~Д.~О., Зацман~И.~М. Интеграция
+  электронного словаря с текстами
+  параллельного корпуса: новый
+  теоретический подход~// Системы и средства
+  информатики.
+\newblock 2025.
+\newblock Т.~35, {№}~1.
+\newblock {С.}~111--124.
+
+\bibitem{fayzieva_2025}
+\selectlanguageifdefined{russian}
+Файзиева~С.~А. Теоретические основы и
+  значимость электронных корпусов
+  параллельных текстов в переводческой
+  деятельности~// INTERNATIONAL SCIENTIFIC JOURNAL: LEARNING AND
+  TEACHING.
+\newblock 2025.
+\newblock Т.~2, {№}~3.
+\newblock {С.}~71--74.
+
+\bibitem{avagyan_2021}
+\selectlanguageifdefined{russian}
+Авагян~Н.~А. Параллельный корпус
+  научно-технических текстов как
+  инструмент переводчика~// Актуальные
+  проблемы лингвистики и лингводидактики в
+  неязыковом вузе: сборник материалов 4-ой
+  Международной научно-практической
+  конференции, Москва, 16 декабря 2020 года: в 2
+  т.
+\newblock Т.~1.
+\newblock МГТУ им. Н.Э. Баумана, 2021.
+\newblock {С.}~194--199.
+
+\bibitem{Zaharov}
+\selectlanguageifdefined{russian}
+{Захаров В. П., Богданова С. Ю.} Корпусная
+  лингвистика: учебник для студентов
+  гуманитарных вузов.
+\newblock {Иркутск: ИГЛУ}, 2011.
+\newblock 161 с., ISBN 978-5-88267-316-0.
+
+\bibitem{Grudeva}
+\selectlanguageifdefined{russian}
+{Грудева Е. В.} Корпусная лингвистика: учеб.
+  пособие.
+\newblock М: ФЛИНТА, 2012.
+\newblock 165 c., ISBN~978-5-9765-1497-3.
+
+\bibitem{Kopotev}
+\selectlanguageifdefined{russian}
+Копотев~М.~В. Введение в корпусную
+  лингвистику.
+\newblock {Прага: Animedia Company}, 2014.
+\newblock 231 c., ISBN: 978-80-7499-067-0.
+
+\bibitem{concordanceDominican}
+\selectlanguageifdefined{russian}
+{Доминикан А. И.} Конкорданс как инструмент
+  для изучения значения слова~// Вестник
+  Тверского государственного университета.
+  Серия: Филология.
+\newblock 2016.
+\newblock {№}~4.
+\newblock {С.}~85--89.
+
+\bibitem{Dobrinina}
+\selectlanguageifdefined{russian}
+{Добрынина К. С.} О методике работы над
+  конкордансами~// Филологические науки.
+  Вопросы теории и практики.
+\newblock 2012.
+\newblock Т.~1, {№}~12.
+\newblock {С.}~59--63.
+
+\bibitem{Kalinkin}
+\selectlanguageifdefined{russian}
+{Калинкин В. М., Шульдишова А. А.} {Конкорданс
+  как произведение лексикографии и
+  инструмент исследований (на материале
+  лирической трилогии А. Блока)}~//
+  Славистика.
+\newblock 2023.
+
+\bibitem{Vasilev}
+\selectlanguageifdefined{russian}
+{Васильев Н. Л., Жаткин Д. Н.} {Конкорданс к
+  поэзии А. С. Пушкина, подготовленный в 1930-х
+  гг. Г. А. Шенгели}~// {Известия РАН. Серия
+  литературы и языка}.
+\newblock 2019.
+\newblock Т.~78, {№}~3.
+\newblock {С.}~39--51.
+
+\bibitem{Nagel}
+\selectlanguageifdefined{russian}
+{Нагель О. В.} Корпусная лингвистика и ее
+  использование в компьютеризированном
+  языковом обучении~// Язык и культура.
+\newblock 2008.
+\newblock {№}~№4.
+\newblock {С.}~53--59.
+
+\bibitem{Voloshina}
+\selectlanguageifdefined{russian}
+{Волошина О. А.} Принципы описания языка в
+  древнеиднийской грамматике Панини~//
+  {Вестник нижегородского университета им
+  Н. И. Лобачевского}.
+\newblock 2018.
+\newblock {№}~1.
+\newblock {С.}~160--165.
+
+\bibitem{handbook}
+\selectlanguageifdefined{russian}
+The Routledge handbook of corpus linguistics~/ {под ред. }~{Anne
+  O’Keffe, Michael McCarthy}.
+\newblock Routledge, 2010.
+\newblock 682 с., ISBN 978-0-203-85694-9.
+
+\bibitem{Dal}
+\selectlanguageifdefined{russian}
+{Даль В. И.} Толковый словарь живого
+  великорусского языка.
+\newblock {Москва : Изд. общ-ва любителей
+  Российской словесности}, 1863.
+
+\bibitem{Webster}
+\selectlanguageifdefined{russian}
+{Webster Noah}. An American dictionary of the English language~/ {под
+  ред. }~{Chauncey A. Goodrich}.
+\newblock {Springfield, Mass.: G. \& C. Merriam}, 1865.
+\newblock 1768 c.
+
+\bibitem{Johnson}
+\selectlanguageifdefined{russian}
+{Johnson Samuel}. A dictionary of the English language~/ {под ред.
+  }Walker~John.
+\newblock {London: W. Tegg \& co}, 1850.
+\newblock 831 с.
+
+\bibitem{Paul}
+\selectlanguageifdefined{russian}
+{Paul German}. Deutsche Grammatik.
+\newblock {M. Niemeyer}, 1916.
+\newblock 378 с.
+
+\bibitem{Kaeding}
+\selectlanguageifdefined{russian}
+{Kaeding Friedrich Wilhelm}. Häufigkeitswörterbuch der deutschen Sprache.
+\newblock {E.S. Mittler \& Sohn}, 1898.
+\newblock 671 с.
+
+\bibitem{Jespersen}
+\selectlanguageifdefined{russian}
+{Jespersen Otto}. {A Modern English Grammar on Historical Principles. Part I.
+  Sounds and spellings}.
+\newblock {London: George Allen \& Unwin}, 1909.
+\newblock 485 с.
+
+\bibitem{Baranov}
+\selectlanguageifdefined{russian}
+{Баранов А. Н.} {Введение в прикладную
+  лингвистику: Учебное пособие}.
+\newblock М.: Эдиториал УРСС, 2001.
+\newblock {360 c., ISBN~5-8360-0196-0}.
+
+\bibitem{Zubov}
+\selectlanguageifdefined{russian}
+{Зубов А. В., Зубова И. И.} Информационные
+  технологии в лингвистике: Учеб. пособие.
+\newblock М.: Издательский центр <<Академия>>, 2004.
+\newblock 208 c.
+
+\bibitem{ZaharovSpec}
+\selectlanguageifdefined{russian}
+{Моделирование в корпусной лингвистике:
+  специализированные корпусы русского
+  языка}~/ В.~П.~Захаров, И.~В.~Азарова,
+  О.~А.~Митрофанова {[и~др.]}; {под ред.
+  }Захаров~В.~П.
+\newblock {СПб.: Изд-во С.-Петерб. ун-та}, 2019.
+\newblock 208 c., ISBN~978-5-288-05902-5.
+
+\bibitem{Leech1997}
+\selectlanguageifdefined{russian}
+Leech~Geoffrey. Introducing corpus annotation.
+\newblock 1997.
+
+\bibitem{Lesnikov}
+\selectlanguageifdefined{russian}
+{Лесников С. В.} Виды разметок текстовых
+  корпусов русского языка~//
+  Научно-техническая информация. Серия 2:
+  Информационные процессы и системы.
+\newblock 2019.
+
+\bibitem{trudy2019}
+\selectlanguageifdefined{russian}
+{Национальный корпус русского языка:
+  исследования и разработки}.
+\newblock {М.}, 2019.
+\newblock Т.~21 {из} \BibEmph{{Труды Института
+  русского языка им. В.В. Виноградова}}.
+
+\bibitem{bogdanova2014}
+\selectlanguageifdefined{russian}
+{Богданова-Бегларян Н. В.} {Дискурсивная
+  единица типа (того что): функционирование
+  в устной спонтанной речи и возможности
+  лексикографического описания}~// {Проблемы
+  истории, филологии, культуры}.
+\newblock 2014.
+\newblock {№}~3 (45).
+\newblock {С.}~252--254.
+
+\bibitem{sinclair1996preliminary}
+\selectlanguageifdefined{russian}
+Sinclair~John~M. Preliminary recommendations on text typology: EAGLES Document:
+  EAG-TCWG-TTYP/P: EAGLES (Expert Advisory Group on Language Engineering
+  Standards), 1996.
+\newblock [Электронный ресурс]. Дата обращения:
+  19.11.2025. URL:  http://www.ilc.pi.cnr.it/EAGLES96/texttyp/texttyp.html.
+
+\bibitem{abeeille2003treebanks}
+\selectlanguageifdefined{russian}
+Treebanks: Building and Using Parsed Corpora~/ {под ред.
+  }Anne~Abeill{\'e}.
+\newblock Dordrecht: Springer, 2003.
+\newblock Т.~20 {из} \BibEmph{Text, Speech and Language Technology}.
+
+\bibitem{fillmore1968case}
+\selectlanguageifdefined{russian}
+Fillmore~Charles~J. The Case for Case~// Universals in Linguistic Theory~/
+  {под ред. }Emmon~Bach, Robert~T.~Harms.
+\newblock New York, NY: Holt, Rinehart and Winston, 1968.
+\newblock {С.}~1--88.
+
+\bibitem{plungian2003obshtaya}
+\selectlanguageifdefined{russian}
+{Плунгян В. А.} {Общая морфология: Введение в
+  проблематику}.
+\newblock 2-е, исправленное {изд.}
+\newblock М.: Едиториал УРСС, 2003.
+
+\bibitem{kibrik2019introduction}
+\selectlanguageifdefined{russian}
+Кибрик~А.~Е. {[и~др.]}. Введение в науку о
+  языке~/ {под ред. }О.~В.~Федорова,
+  С.~Г.~Татевосов.
+\newblock М.: Буки Веди, 2019.
+
+\bibitem{gorban2021structural}
+\selectlanguageifdefined{russian}
+Горбань~О.~А., Косова~М.~В., Шептухина~Е.~М.
+  Структурная разметка деловых документов
+  в диахроническом лингвистическом
+  корпусе: проблемы и решения~// Вестник
+  Волгоградского государственного
+  университета. Серия~2: Языкознание.
+\newblock 2021.
+\newblock Т.~20, {№}~4.
+\newblock {С.}~5--18.
+
+\bibitem{zagorulko2013software}
+\selectlanguageifdefined{russian}
+{Загорулько М. Ю., Сидорова Е. А.} Программный
+  инструментарий разработки
+  лингвистических ресурсов~// {Открытые
+  семантические технологии проектирования
+  интеллектуальных систем (OSTIS-2013):
+  материалы III Междунар. научн.-техн. конф.}~/
+  {под ред. }~{Голенков В. В. и др.}
+\newblock Минск: БГУИР, 2013.
+\newblock {С.}~159--164.
+
+\bibitem{zagorulko2012system}
+\selectlanguageifdefined{russian}
+Загорулько~М.~Ю., Кононенко~И.~С.,
+  Сидорова~Е.~А. Система семантической
+  разметки корпуса текстов в ограниченной
+  предметной области~// {Компьютерная
+  лингвистика и интеллектуальные
+  технологии: По материалам ежегодной
+  Международной конференции «Диалог» (2012).
+  Вып. 11(18). Т. 1: Основная программа
+  конференции}.
+\newblock М.: Изд-во РГГУ, 2012.
+\newblock {С.}~674--683.
+
+\bibitem{sokolov2017razrabotka}
+\selectlanguageifdefined{russian}
+{Соколов А. В., Батура Т. В.} Разработка
+  системы разрешения анафоры на основе
+  методов машинного обучения~// Программные
+  продукты и системы.
+\newblock 2017.
+\newblock Т.~30, {№}~3.
+\newblock {С.}~461--468.
+
+\bibitem{bogdanov2014anaphora}
+\selectlanguageifdefined{russian}
+Anaphora Analysis based on ABBYY Compreno Linguistic Technologies~/
+  A.~V.~Bogdanov, S.~S.~Dzhumaev, D.~A.~Skorinkin {[и~др.]}~//
+  Компьютерная лингвистика и
+  интеллектуальные технологии: По
+  материалам ежегодной Международной
+  конференции «Диалог».
+\newblock Т.~13.
+\newblock М.: РГГУ, 2014.
+\newblock {С.}~89--101.
+
+\bibitem{mitkovStateOfArt}
+\selectlanguageifdefined{russian}
+Mitkov~Ruslan. Anaphora Resolution: The State of the Art.
+
+\bibitem{carter1987interpreting}
+\selectlanguageifdefined{russian}
+Carter~David. Interpreting Anaphors in Natural Language Texts. Ellis Horwood
+  Series in Artificial Intelligence.
+\newblock Chichester: Ellis Horwood Limited, 1987.
+
+\bibitem{baldwin1997cogniac}
+\selectlanguageifdefined{russian}
+Baldwin~Breck. Cog{NIAC}: High Precision Coreference with Limited Knowledge and
+  Linguistic Resources~// Proceedings of the ACL'97/EACL'97 Workshop on
+  Operational Factors in Practical, Robust Anaphora Resolution.
+\newblock Madrid, Spain: 1997.
+\newblock {С.}~38--45.
+\newblock Association for Computational Linguistics.
+
+\bibitem{azerkovich2019ispolzovanie}
+\selectlanguageifdefined{russian}
+{Азеркович И. Л.} Использование мер
+  семантической близости для распознавания
+  кореференции в русском языке~// Вестник
+  НГУ. Серия: Лингвистика и межкультурная
+  коммуникация.
+\newblock 2019.
+\newblock Т.~17, {№}~1.
+\newblock {С.}~65--77.
+
+\bibitem{Ng2017MachineLF}
+\selectlanguageifdefined{russian}
+Ng~Vincent. Machine Learning for Entity Coreference Resolution: A Retrospective
+  Look at Two Decades of Research~// AAAI Conference on Artificial
+  Intelligence.
+\newblock 2017.
+
+\bibitem{inshakova2019razvitie}
+\selectlanguageifdefined{russian}
+СинТагРус сегодня~/ Е.~С.~Иншакова,
+  Л.~Л.~Иомдин, Л.~Г.~Митюшин {[и~др.]}~// Труды
+  Института русского языка им. В.В.
+  Виноградова. Вып. 21. Национальный корпус
+  русского языка: исследования и
+  разработки.
+\newblock М., 2019.
+\newblock {С.}~14--40.
+
+\bibitem{protopopova2014experience}
+\selectlanguageifdefined{russian}
+Опыт анафорической разметки корпуса и
+  разрешения анафоры с использованием
+  машинного обучения~/ Е.~В.~Протопопова,
+  А.~А.~Бодрова, С.~А.~Вольская {[и~др.]}~//
+  Компьютерная лингвистика и
+  интеллектуальные технологии: По
+  материалам ежегодной Международной
+  конференции «Диалог».
+\newblock Т.~13.
+\newblock М.: РГГУ, 2014.
+\newblock {С.}~562--571.
+
+\bibitem{eremeeva2018razreshenie}
+\selectlanguageifdefined{russian}
+Еремеева~Г.~Р., Мельникова~О.~К.,
+  Ситтикова~Ф.~Р. Разрешение анафоры в
+  вычислительной лингвистике~// Казанский
+  лингвистический журнал.
+\newblock 2018.
+\newblock Т.~1, {№}~1.
+\newblock {С.}~57--66.
+
+\bibitem{tolpegin2006algorithm}
+\selectlanguageifdefined{russian}
+Толпегин~П.~В., Ветров~Д.~П., Кропотов~Д.~А.
+  Алгоритм автоматизированного разрешения
+  анафоры местоимений третьего лица на
+  основе методов машинного обучения~//
+  Компьютерная лингвистика и
+  интеллектуальные технологии: Труды
+  международной конференции <<Диалог 2006>>~/
+  {под ред. }~{Лауфер Н. И., Нариньяни А. С.,
+  Селегея В. П.}
+\newblock М.: Изд-во РГГУ, 2006.
+\newblock {С.}~504--507.
+
+\bibitem{lukashevich2011thesauri}
+\selectlanguageifdefined{russian}
+{Лукашевич Н. В.} Тезаурусы в задачах
+  информационного поиска.
+\newblock М.: Изд-во Моск. ун-та, 2011.
+
+\bibitem{toldova2016russian}
+\selectlanguageifdefined{russian}
+Russian Coreference Corpus~/ S.~Toldova, Yu.~Grishina, A.~Ladygina
+  {[и~др.]}~// Input a Word, Analyze the World: Selected Approaches to
+  Corpus Linguistics~/ {под ред. }Fernando~Alonso~Almeida,
+  Isabel~Ortega~Barrera, Elisa~Q.~Toledo.
+\newblock Newcastle upon Tyne, UK: Cambridge Scholars Publishing, 2016.
+\newblock {С.}~107--124.
+
+\bibitem{rada1989development}
+\selectlanguageifdefined{russian}
+Development and Application of a Metric to Semantic Nets~/ Roy~Rada,
+  Hafedh~Mili, Ellen~Bicknell {[и~др.]}~// IEEE Transactions on Systems, Man
+  and Cybernetics.
+\newblock 1989.
+\newblock Т.~19, {№}~1.
+\newblock {С.}~17--30.
+
+\bibitem{wu1994verb}
+\selectlanguageifdefined{russian}
+Wu~Zhibiao, Palmer~Martha. Verb Semantics and Lexical Selection~// Proceedings
+  of the 32nd Annual Meeting of the Association for Computational Linguistics
+  (ACL-94).
+\newblock Las Cruces, New Mexico, USA: Association for Computational
+  Linguistics, 1994.
+\newblock {С.}~133--138.
+
+\bibitem{leacock1998combining}
+\selectlanguageifdefined{russian}
+Leacock~Claudia, Chodorow~Martin. Combining Local Context and {WordNet}
+  Similarity for Word Sense Identification~// WordNet: An Electronic Lexical
+  Database~/ {под ред. }Christiane~Fellbaum.
+\newblock Cambridge, MA: MIT Press, 1998.
+\newblock {С.}~265--283.
+
+\bibitem{resnik1995using}
+\selectlanguageifdefined{russian}
+Resnik~Philip. Using Information Content to Evaluate Semantic Similarity in a
+  Taxonomy~// Proceedings of the 14th International Joint Conference on
+  Artificial Intelligence (IJCAI).
+\newblock Т.~1.
+\newblock Montreal, Quebec, Canada: Morgan Kaufmann, 1995.
+\newblock {С.}~448--453.
+
+\bibitem{seco2004intrinsic}
+\selectlanguageifdefined{russian}
+Seco~Nuno, Veale~Tony, Hayes~John. An Intrinsic Information Content Metric for
+  Semantic Similarity in WordNet~// Proceedings of the 16th European Conference
+  on Artificial Intelligence.
+\newblock Valencia, Spain: IOS Press, 2004.
+\newblock {С.}~1089--1090.
+
+\bibitem{lesk1986automatic}
+\selectlanguageifdefined{russian}
+Lesk~Michael. Automatic Sense Disambiguation Using Machine Readable
+  Dictionaries: How to Tell a Pine Cone from an Ice Cream Cone~// Proceedings
+  of the 5th Annual Conference on Systems Documentation.
+\newblock New York, NY, USA: ACM, 1986.
+\newblock {С.}~24--26.
+
+\bibitem{ponzetto2006exploiting}
+\selectlanguageifdefined{russian}
+Ponzetto~Simone~Paolo, Strube~Michael. Exploiting Semantic Role Labeling,
+  WordNet and Wikipedia for Coreference Resolution~// Proceedings of the Human
+  Language Technology Conference of the North American Chapter of the
+  Association for Computational Linguistics.
+\newblock New York, NY, USA: Association for Computational Linguistics, 2006.
+\newblock {С.}~192--199.
+
+\bibitem{zuev2013statistical}
+\selectlanguageifdefined{russian}
+Zuev~K.~A., Indenbom~M.~E., Judina~M.~V. Statistical Machine Translation with
+  Linguistic Language Model~// Computational Linguistics and Intellectual
+  Technologies: Proceedings of the International Conference <<Dialog 2013>>.
+\newblock Т.~2.
+\newblock Bekasovo, Russia: 2013.
+\newblock {С.}~164--172.
+
+\bibitem{anisimovich2012syntactic}
+\selectlanguageifdefined{russian}
+Syntactic and Semantic Parser Based on ABBYY Compreno Linguistic Technologies~/
+  K.~V.~Anisimovich, K.~Ju.~Druzhkin, F.~R.~Minlos {[и~др.]}~//
+  Computational Linguistics and Intellectual Technologies: Proceedings of the
+  International Conference <<Dialog 2012>>.
+\newblock Bekasovo, Russia: 2012.
+\newblock {С.}~90--103.
+
+\bibitem{winograd1972understanding}
+\selectlanguageifdefined{english}
+Winograd~T. Understanding Natural Language.
+\newblock New York: Academic Press, 1972.
+
+\bibitem{gureenkova2017complex}
+\selectlanguageifdefined{russian}
+Complex Approach Towards Algorithm Learning for Anaphora Resolution in Russian
+  Language~/ О.~А.~Гуренькова, Т.~В.~Батура,
+  А.~А.~Козлова {[и~др.]}~// {Компьютерная
+  лингвистика и интеллектуальные
+  технологии: По материалам ежегодной
+  международной конференции <<Диалог>> (2017).
+  Вып. 16 (23). В 2 т.}
+\newblock М.: Изд-во РГГУ, 2017.
+\newblock {С.}~89--97.
+
+\bibitem{Quinlan1986InductionOD}
+\selectlanguageifdefined{russian}
+Quinlan~J.~Ross. Induction of Decision Trees~// Machine Learning.
+\newblock 1986.
+\newblock Т.~1.
+\newblock {С.}~81--106.
+
+\bibitem{yandexTomitaDoc}
+\selectlanguageifdefined{russian}
+{Yandex LLC}. Tomita Parser: Documentation.
+\newblock 2023.
+\newblock [Электронный ресурс]. Дата обращения:
+  28.11.2025. URL:  \url{https://yandex.ru/dev/tomita/}.
+
+\bibitem{geurts2006extremely}
+\selectlanguageifdefined{russian}
+Geurts~Pierre, Ernst~Damien, Wehenkel~Louis. Extremely Randomized Trees~//
+  Machine Learning.
+\newblock 2006.
+\newblock Т.~63, {№}~1.
+\newblock {С.}~3--42.
+
+\bibitem{rani2022machine}
+\selectlanguageifdefined{russian}
+Rani~K.~Swaroopa. A Machine Learning Approach for Addressing Imbalanced Data: A
+  Systematic Review~// Journal of Engineering Sciences.
+\newblock 2022.
+\newblock Т.~13, {№}~8.
+\newblock {С.}~950--958.
+
+\bibitem{yandexMystemDoc}
+\selectlanguageifdefined{russian}
+{Yandex LLC}. MyStem: Documentation.
+\newblock 2023.
+\newblock [Электронный ресурс]. Дата обращения:
+  28.11.2025. URL:  \url{https://yandex.ru/dev/mystem/}.
+
+\bibitem{Petrov2016SyntaxNet}
+\selectlanguageifdefined{russian}
+Petrov~Slav. Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open
+  Source.
+\newblock 2016.  may.
+\newblock [Электронный ресурс]. Дата обращения:
+  28.11.2025. URL:
+  \url{https://research.google/blog/announcing-syntaxnet-the-worlds-most-accurate-parser-goes-open-source/}.
+
+\bibitem{mikolov2013distributedrepresentationswordsphrases}
+\selectlanguageifdefined{russian}
+Mikolov~Tomas, Sutskever~Ilya, Chen~Kai {[и~др.]}. Distributed
+  Representations of Words and Phrases and their Compositionality.
+\newblock 2013.
+
+\bibitem{komendantov2019avtomatizaciya}
+\selectlanguageifdefined{russian}
+Комендантов~А.~С., Матвеев~А.~Г., Светлов~А.~В.
+  Автоматизация морфологической разметки
+  архивных документов~// Математическая
+  физика и компьютерное моделирование.
+\newblock 2019.
+\newblock Т.~22, {№}~4.
+\newblock {С.}~53--62.
+
+\bibitem{chandia2022fstmorphologicalanalysergenerator}
+\selectlanguageifdefined{russian}
+Chandía~Andrés. FST Morphological Analyser and Generator for Mapud\"ungun.
+\newblock 2022.
+
+\bibitem{kumar2012fst}
+\selectlanguageifdefined{russian}
+Kumar~Deepak, Singh~Manjeet, Shukla~Seema. FST Based Morphological Analyzer for
+  Hindi Language~// International Journal of Computer Science Issues (IJCSI).
+\newblock 2012.
+\newblock Т.~9, {№}~4.
+\newblock {С.}~349--353.
+
+\bibitem{strunk2020}
+\selectlanguageifdefined{russian}
+Strunk~Lonny~Alaskuk.
+\newblock A Finite-State Morphological Analyzer for Central Alaskan Yup'ik:
+  Master's thesis: University of Washington.
+\newblock 2020.
+\newblock [Электронный ресурс]. Дата обращения:
+  30.11.2025. URL:
+  \url{https://digital.lib.washington.edu/server/api/core/bitstreams/76ad78b5-6cbc-4d3a-911a-ea313748c378/content}.
+
+\bibitem{segalovich2003fast}
+\selectlanguageifdefined{russian}
+Segalovich~Ilya. A fast morphological algorithm with unknown word guessing
+  induced by a dictionary for a web search engine.
+\newblock 2003.
+\newblock [Электронный ресурс]. Дата обращения:
+  30.11.2025. URL:
+  \url{https://cloudcdn-m9-12.cdn.yandex.net/download.yandex.ru/company/iseg-las-vegas.pdf?lid=7}.
+
+\bibitem{StemkaWebsite}
+\selectlanguageifdefined{russian}
+Kovalenko~A. Stemka~---~{R}ussian and {U}krainian morphological guesser.
+\newblock 2002.
+\newblock [Электронный ресурс]. Дата обращения:
+  10.12.2025. URL:  \url{http://www.keva.ru/stemka/stemka.html}.
+
+\bibitem{PorterStemmer2001}
+\selectlanguageifdefined{russian}
+Porter~Martin~F. The Porter Stemming Algorithm.
+\newblock 2001.
+\newblock [Электронный ресурс]. Дата обращения:
+  10.12.2025. URL:
+  \url{http://snowball.tartarus.org/algorithms/porter/stemmer.html}.
+
+\bibitem{Pymorphy2Internals}
+\selectlanguageifdefined{russian}
+{Pymorphy2 Development Team}. Internals — pymorphy2 0.9.1 documentation.
+\newblock [Электронный ресурс]. Дата обращения:
+  20.12.2025. URL:
+  \url{https://pymorphy2.readthedocs.io/en/stable/internals/index.html}.
+
+\bibitem{Petrochenkov2013}
+\selectlanguageifdefined{russian}
+Petrochenkov~V.~V., Kazennikov~A.~O. A Statistical Tagger for Morphological
+  Tagging of Russian Language Texts~// Automation and Remote Control.
+\newblock 2013.
+\newblock Т.~74, {№}~10.
+\newblock {С.}~1733--1746.
+
+\bibitem{schmidSFSTmanual}
+\selectlanguageifdefined{russian}
+Schmid~Helmut. SFST Manual~/ Institute for Natural Language Processing,
+  University of Stuttgart.
+\newblock [Электронный ресурс]. Дата обращения:
+  30.11.2025. URL:  \url{https://www.cis.uni-muenchen.de/~schmid/tools/SFST/}.
+
+\bibitem{smeets2008}
+\selectlanguageifdefined{russian}
+Smeets~Ineke. A Grammar of Mapuche.
+\newblock Berlin, Germany and New York, U.S.A.: Mouton de Gruyter, 2008.
+
+\bibitem{hulden2009foma}
+\selectlanguageifdefined{russian}
+Hulden~Mans. Foma: a Finite-State Compiler and Library.
+\newblock 2009.  01.
+\newblock {С.}~29--32.
+
+\bibitem{Zalizniak1980}
+\selectlanguageifdefined{russian}
+Зализняк~А.~А. Грамматический словарь
+  русского языка.
+\newblock Москва: Русский язык, 1980.
+
+\bibitem{Porter1980}
+\selectlanguageifdefined{russian}
+Porter~M.~F. An algorithm for suffix stripping~// Program: electronic library
+  and information systems.
+\newblock 1980.
+\newblock Т.~14, {№}~3.
+\newblock {С.}~130--137.
+
+\bibitem{SnowballRussian2003}
+\selectlanguageifdefined{russian}
+{Snowball Project}. Russian stemming algorithm.
+\newblock 2003.
+\newblock [Электронный ресурс]. Дата обращения:
+  10.12.2025. URL:
+  \url{https://snowballstem.org/algorithms/russian/stemmer.html}.
+
+\bibitem{GimenezMarquez2004}
+\selectlanguageifdefined{russian}
+Giménez~Jesús, Màrquez~Lluís. {SVM}tool: {A} Part-of-Speech Tagger
+  Generator Based on Support Vector Machines~// Proceedings of the Fourth
+  International Conference on Language Resources and Evaluation ({LREC} 2004).
+\newblock 2004.
+\newblock {С.}~43--46.
+
+\bibitem{IITP_Corpus_Project}
+\selectlanguageifdefined{russian}
+{Институт проблем передачи информации РАН
+  им А. А. Харкевича}. Корпус СинТагРус.
+\newblock [Электронный ресурс]. Дата обращения:
+  13.12.2025. URL:  \url{http://proling.iitp.ru/ru/projects/corpus}.
+
+\bibitem{bohnet2018morphosyntactictaggingmetabilstmmodel}
+\selectlanguageifdefined{russian}
+Bohnet~Bernd, McDonald~Ryan, Simoes~Goncalo {[и~др.]}. Morphosyntactic
+  Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings.
+\newblock 2018.
+
+\bibitem{dozat2017stanford}
+\selectlanguageifdefined{russian}
+Dozat~Timothy, Qi~Peng, Manning~Christopher~D. Stanford's graph-based neural
+  dependency parser at the {CoNLL} 2017 shared task~// Proceedings of the
+  {CoNLL} 2017 Shared Task: Multilingual Parsing from Raw Text to Universal
+  Dependencies.
+\newblock Vancouver, Canada: 2017.  August.
+\newblock {С.}~20--30.
+
+\bibitem{CoNLL2017SharedTask}
+\selectlanguageifdefined{russian}
+CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal
+  Dependencies~/ Daniel~Zeman, Martin~Popel, Milan~Straka {[и~др.]}.
+\newblock 2017.  01.
+\newblock {С.}~1--19.
+
+\bibitem{Zakirova2023Syntax}
+\selectlanguageifdefined{russian}
+Закирова~К., Новикова~И., Блюдова~В {[и~др.]}.
+  Автоматический синтаксический анализ.
+\newblock НИУ ВШЭ в Нижнем Новгороде: Новости
+  образовательной программы
+  ``Фундаментальная и прикладная
+  лингвистика''.
+\newblock 2023.
+\newblock [Электронный ресурс]. Дата обращения:
+  15.01.26. URL:  \url{https://nnov.hse.ru/ba/ling/news/808162873.html}.
+
+\bibitem{bolshakova2017avtomaticheskaya}
+\selectlanguageifdefined{russian}
+Автоматическая обработка текстов на
+  естественном языке и анализ данных~/
+  Е.~И.~Большакова, К.~В.~Воронцов,
+  Н.~Э.~Ефремова {[и~др.]}.
+\newblock М.: Изд-во НИУ ВШЭ, 2017.
+\newblock {с.}~269.
+
+\bibitem{Zobnin2009ObjectATE}
+\selectlanguageifdefined{russian}
+Зобнин~А.~И., Сахарова~А.~В. Универсальная
+  система синтаксической разметки текстов
+  ObjectATE~// Компьютерная лингвистика и
+  интеллектуальные технологии~/ {под ред.
+  }А.~Е.~Кибрик, ~др.
+\newblock М.: РГГУ, 2009.
+\newblock {С.}~120--126.
+
+\bibitem{makarov2022cockeyoungerkasamischwartzzippelalgorithmrelatives}
+\selectlanguageifdefined{russian}
+Makarov~V. Cocke--Younger--Kasami--Schwartz--Zippel algorithm and relatives.
+\newblock 2022.
+
+\bibitem{younger1967recognition}
+\selectlanguageifdefined{russian}
+Younger~Daniel~H. Recognition and parsing of context-free languages in time
+  $n^3$~// Information and Control.
+\newblock 1967.
+\newblock Т.~10, {№}~2.
+\newblock {С.}~189--208.
+
+\bibitem{jurafsky2026speech}
+\selectlanguageifdefined{russian}
+Jurafsky~Daniel, Martin~James~H. Speech and Language Processing: An
+  Introduction to Natural Language Processing, Computational Linguistics, and
+  Speech Recognition with Language Models.
+\newblock Third draft {изд.}
+\newblock 2026.
+\newblock Draft of January 6, 2026.
+
+\bibitem{nivre2003efficient}
+\selectlanguageifdefined{russian}
+Nivre~Joakim. An Efficient Algorithm for Projective Dependency Parsing~//
+  Proceedings of the 7th Conference on Natural Language Learning at {HLT-NAACL}
+  2003.
+\newblock Edmonton, Canada: Association for Computational Linguistics, 2003.
+\newblock {С.}~1--8. URL:  https://aclanthology.org/W03-3017/.
+
+\bibitem{nivre2007maltparser}
+\selectlanguageifdefined{russian}
+MaltParser: A Language-Independent System for Data-Driven Dependency Parsing~/
+  Joakim~Nivre, Johan~Hall, Jens~Nilsson {[и~др.]}~// Natural Language
+  Engineering.
+\newblock 2007.
+\newblock Т.~13, {№}~2.
+\newblock {С.}~95--135.
+
+\bibitem{covington2001fundamental}
+\selectlanguageifdefined{russian}
+Covington~Michael~A. A Fundamental Algorithm for Dependency Parsing~//
+  Proceedings of the 39th Annual {ACM} Southeast Conference.
+\newblock Athens, Georgia, USA: ACM, 2001.
+\newblock {С.}~95--102.
+
+\bibitem{kiselev2017sintaksicheskij}
+\selectlanguageifdefined{russian}
+Киселёв~М.~В., Федосеева~Д.~В. Синтаксический
+  парсер русского языка {LPaRus} компании {Megaputer
+  Intelligence}~// Компьютерная лингвистика и
+  интеллектуальные технологии: По
+  материалам ежегодной Международной
+  конференции «Диалог».
+\newblock Москва: РГГУ, 2017.
+
+\bibitem{aho2007compilers}
+\selectlanguageifdefined{russian}
+Compilers: Principles, Techniques, and Tools~/ Alfred~V.~Aho, Monica~S.~Lam,
+  Ravi~Sethi {[и~др.]}.
+\newblock 2nd {изд.}
+\newblock Boston, MA, USA: Addison-Wesley, 2007.
+
+\bibitem{suc1997}
+\selectlanguageifdefined{russian}
+{Department of Linguistics, Ume{\aa} University}, {Department of Linguistics,
+  Stockholm University}. Stockholm Ume{\aa} Corpus. Version 1.0.
+\newblock Department of Linguistics, Ume{\aa} University and Department of
+  Linguistics, Stockholm University, 1997.
+
+\bibitem{ruscorpora}
+\selectlanguageifdefined{russian}
+Национальный корпус русского языка.
+\newblock \url{https://ruscorpora.ru/}.
+\newblock 2026.
+\newblock [Электронный ресурс]. Дата обращения:
+  24.01.26.
+
+\bibitem{ashimbayeva_2023}
+\selectlanguageifdefined{russian}
+Параллельный подкорпус казахского и
+  русского языков: разработка,
+  функционирование и проблемы~/
+  Н.М.~Ашимбаева, А.З.~Бисенгали, С.К.~Кулманов
+  {[и~др.]}~// Tiltanym.
+\newblock 2023.
+\newblock {№}~2.
+\newblock {С.}~49--61.
+
+\bibitem{tugantel_parallel}
+\selectlanguageifdefined{russian}
+Русско-татарский (параллельный) подкорпус
+  в общественно-политической и IT- областях.
+\newblock \url{https://tugantel.tatar/parallel/}.
+\newblock 2018.
+\newblock [Электронный ресурс]. Дата обращения:
+  24.01.26.
+
+\bibitem{yang_2018}
+\selectlanguageifdefined{russian}
+Ян~И. Китайско-русский параллельный
+  дискурсивный корпус: выравнивание на
+  уровне клаузы и статистический анализ~//
+  Известия Уральского федерального
+  университета. Серия 2: Гуманитарные науки.
+\newblock 2018.
+\newblock Т.~20, {№}~2 (175).
+\newblock {С.}~60--73.
+
+\bibitem{lyashevskaya_etal_2024}
+\selectlanguageifdefined{russian}
+Lyashevskaya~O., Kozhanov~K., Arkhangelskiy~T. A Parallel Corpus for the Ruska
+  Romani Dialect and Russian Language~// Proceedings of the 8th Joint SIGHUM
+  Workshop on Computational Linguistics for Cultural Heritage, Social Sciences,
+  Humanities and Literature.
+\newblock Association for Computational Linguistics, 2024.
+\newblock {С.}~1--6.
+
+\bibitem{chistova_2024}
+\selectlanguageifdefined{russian}
+Chistova~E. Bilingual Rhetorical Structure Parsing with Large Parallel
+  Annotations.
+\newblock 2024.
+
+\end{thebibliography}
